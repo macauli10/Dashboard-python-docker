@@ -1,4 +1,3 @@
-# criar_banco.py
 import sqlite3
 import pandas as pd
 
